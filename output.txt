@@ -1,0 +1,37 @@
+Rubik’s Cube Solver Output
+
+Scrambled Cube:
+U Face:
+B W W
+W W W
+W W W
+
+D Face:
+Y Y Y
+Y Y Y
+Y Y Y
+
+L Face:
+O O O
+O O O
+O O O
+
+R Face:
+R R R
+R R R
+R R R
+
+F Face:
+G G G
+G G G
+G G G
+
+B Face:
+B B B
+B B B
+B B B
+
+Solution Moves:
+F' R U R' U' F
+
+Total Moves: 6
