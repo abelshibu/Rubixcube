@@ -3,7 +3,7 @@
 
 A realistic, interactive **3D Rubik’s Cube** built using `Pygame`, `OpenGL`, and `kociemba`. Supports scrambling, solving, and cube rotations with visual animation.
 
-![Screenshot](screenshot.png)
+
 
 ---
 
@@ -64,11 +64,11 @@ python cube.py
 
 **Scrambled Cube**:
 
-![Scrambled](example_scramble.png)
+![Scrambled]([example_scramble.png](https://res.cloudinary.com/ddnlumst5/image/upload/v1754164156/Screenshot_2025-08-02_203425_ddsa2o.png))
 
 **Solving...**
 
-![Solving](example_solving.png)
+![Solving]([example_solving.png](https://res.cloudinary.com/ddnlumst5/image/upload/v1754164156/Screenshot_2025-08-02_203411_utyt2u.png))
 
 ---
 
